@@ -11,4 +11,6 @@
 
 **Видео:** https://drive.google.com/file/d/13rMR-LrBDJbP-cPJ1eUYxgaa4pgtkTd0/view?usp=drive_link
 
+**APK Файл:** https://disk.yandex.ru/d/Abw8Kj9lKBsS-A
+
 
