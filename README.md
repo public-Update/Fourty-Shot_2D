@@ -7,7 +7,7 @@
 + Implemented on the *Photon server*
 
 # Whoever survived won!
-![GamePlay_Fourty-Shot](https://github.com/user-attachments/assets/edc11ae7-df96-4436-ac96-84bf5e997fa0)
+![](https://github.com/user-attachments/assets/bbe69ac8-9a46-419b-bc20-8c065ed52374)
 
 **APK:** https://disk.yandex.ru/d/Abw8Kj9lKBsS-A
 
